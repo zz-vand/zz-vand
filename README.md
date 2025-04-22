@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi! 👋 I'm Andrew
 
-<!--
-**zz-vand/zz-vand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Tech Stack:
+**Backend Development:**
+- Python (FastAPI, SQLAlchemy, asyncio)
+- C++ (Algorithms & High-Performance Computing)
+- Databases: PostgreSQL, SQLite
+- DevOps: Docker, Docker Compose
 
-Here are some ideas to get you started:
+**Data Science & Machine Learning:**
+- Core: NumPy, Pandas, Scikit-learn
+- Deep Learning: PyTorch, TensorFlow
+- Visualization: Matplotlib, Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Work Experience:
+**Backend Developer**  
+*(6 months, 2024-2025)*  
+- Developed high-performance backend service for data collection and processing
+- Implemented:  
+  ✓ Real-time data aggregation pipeline  
+  ✓ Efficient storage solutions (time-series optimization)  
+  ✓ API endpoints for data visualization
+- **Key Achievement:** Built service processing 10K+ requests/day with <100ms latency
+
+#### 📚 Currently Learning:
+**Computer Vision:**
+- Mastering OpenCV and PyTorch Vision for real-time object detection
+
+**Advanced Algorithms:**
+- Competitive Programming (Codeforces, LeetCode)
+- System Design for ML pipelines
+
+
+#### 📫 How to Reach Me:
+- tg: https://t.me/andrew_estetovich
+- e-mail: qwerty1369115@yandex.ru
+

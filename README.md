@@ -8,7 +8,7 @@
 - DevOps: Docker, Docker Compose
 
 **Data Science & Machine Learning:**
-- Core: NumPy, Pandas, Scikit-learn
+- Core: NumPy, Pandas, Scikit-learn, OpenCV
 - Deep Learning: PyTorch, TensorFlow
 - Visualization: Matplotlib, Seaborn
 

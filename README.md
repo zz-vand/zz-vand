@@ -9,18 +9,26 @@
 
 **Data Science & Machine Learning:**
 - Core: NumPy, Pandas, Scikit-learn, OpenCV
-- Deep Learning: PyTorch, TensorFlow
+- Deep Learning: PyTorch
 - Visualization: Matplotlib, Seaborn
 
 #### 🚀 Work Experience:
 **Backend Developer**  
-*(6 months, 2024-2025)*  
+*(9 months, 2024-2025)*  
 - Developed high-performance backend service for data collection and processing
 - Implemented:  
   ✓ Real-time data aggregation pipeline  
   ✓ Efficient storage solutions (time-series optimization)  
   ✓ API endpoints for data visualization
 - **Key Achievement:** Built service processing 10K+ requests/day with <100ms latency
+**ML engineer**
+*(6 months, 2024-2025)*
+- Developed end-to-end machine learning pipelines for predictive analytics
+    ✓ Implemented feature engineering framework (Python)
+    ✓ Optimized XGBoost/decesion tree models achieving 92% ROC-AUC
+    ✓ Deployed ML models as microservices (FastAPI)
+
+- Tech Stack: Python, Scikit-learn, PyTorch
 
 #### 📚 Currently Learning:
 **Computer Vision:**

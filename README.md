@@ -21,6 +21,7 @@
   ✓ Efficient storage solutions (time-series optimization)  
   ✓ API endpoints for data visualization
 - **Key Achievement:** Built service processing 10K+ requests/day with <100ms latency
+
 **ML engineer**
 *(6 months, 2024-2025)*
 - Developed end-to-end machine learning pipelines for predictive analytics
